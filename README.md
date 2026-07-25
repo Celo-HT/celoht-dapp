@@ -3,7 +3,7 @@
 
 # CeloHT dApp
 
-**The official decentralized application for CeloHT** — education, a
+**The official decentralized application for CeloHT** education, a
 community agent network, and reforestation, built on the Celo ecosystem.
 
 [![CI](https://github.com/celo-ht/dapp/actions/workflows/ci.yml/badge.svg)](.github/workflows/ci.yml)
