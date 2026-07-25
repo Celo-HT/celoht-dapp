@@ -27,7 +27,7 @@ the Celo ecosystem.
 **This is not an exchange, not a DeFi protocol, and not a token project.
 No token is created or issued anywhere in this codebase.** Every smart
 contract, page, and workflow exists to support CeloHT's three permanent
-pillars — see [`docs/mission.md`](docs/mission.md).
+pillars see [`docs/mission.md`](docs/mission.md).
 
 ## The three pillars
 
