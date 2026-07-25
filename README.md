@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="apps/web/public/celoht-logo.png" alt="CeloHT logo" width="120" />
+  <img width="998" height="1000" alt="celoht-logo" src="https://github.com/user-attachments/assets/7c1df832-0218-40b8-97ca-5203e78f5970" />
 
 # CeloHT dApp
 
