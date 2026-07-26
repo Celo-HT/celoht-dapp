@@ -21,7 +21,7 @@ community agent network, and reforestation, built on the Celo ecosystem.
 
 This is a decentralized application that lets people learn financial and
 Web3 basics, connect with verified community agents, and support
-reforestation projects — all through a wallet compatible with Valora, on
+reforestation projects all through a wallet compatible with Valora, on
 the Celo ecosystem.
 
 **This is not an exchange, not a DeFi protocol, and not a token project.
@@ -88,7 +88,7 @@ frontend ship to production.
 
 The contract suite (5 contracts, 30 passing tests) is complete and
 audited internally, but **not yet deployed to Celo mainnet or Alfajores**
-— see [`docs/deployment.md`](docs/deployment.md) for exact status and
+see [`docs/deployment.md`](docs/deployment.md) for exact status and
 [`ROADMAP.md`](ROADMAP.md) for the plan. Pages that read on-chain data
 detect this and fall back to clearly labeled sample data rather than
 showing broken or fabricated numbers.
@@ -100,7 +100,7 @@ architecture, security, API, deployment, and contribution guides.
 
 ## Security
 
-Found a vulnerability? Don't open a public issue — see
+Found a vulnerability? Don't open a public issue see
 [`SECURITY.md`](SECURITY.md).
 
 ## License
