@@ -55,11 +55,11 @@ See [`docs/architecture.md`](docs/architecture.md) for the full breakdown.
 ## Technology
 
 - **Frontend**: Next.js, TypeScript, Tailwind CSS, hand-authored shadcn/ui-style
-  components (built on Radix primitives — see [`docs/architecture.md`](docs/architecture.md)
+  components (built on Radix primitives see [`docs/architecture.md`](docs/architecture.md)
   for why these aren't installed via the shadcn CLI in this environment)
 - **Web3**: wagmi, viem, WalletConnect (for Valora and other mobile wallets)
 - **Contracts**: Solidity 0.8.27, Hardhat, OpenZeppelin Contracts 5.x
-- **Off-chain data**: Supabase (optional — the UI runs on documented sample
+- **Off-chain data**: Supabase (optional the UI runs on documented sample
   data without it; see `apps/web/src/lib/data/README.md`)
 - **CI/CD**: GitHub Actions (build, lint, typecheck, contract tests, CodeQL,
   Dependabot)
